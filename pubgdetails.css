@@ -1,0 +1,69 @@
+<link href="https://fonts.googleapis.com/css?family=Shojumaru&display=swap" rel="stylesheet">
+
+.pubg-details{
+  /* background-color: #0c0032; */
+  width: 100%;
+  height: 610px;
+  padding-top: 10px;
+}
+h{
+  margin-top:10px;
+  margin-left: 100px;
+  color: white;
+  display: block;
+  border-radius: 3px;
+  font-size: 50px;
+
+  font-family: 'Shojumaru', cursive;
+
+
+}
+p{
+  font-family: 'Shojumaru', cursive;
+  font-size: 30px;
+  color: white;
+
+
+}
+
+.banner{
+    background:white;
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin-left: 35%;
+    border-radius: 5px;
+    position: relative;
+    background: url("apexlegendbanner.jpg")
+
+
+  }
+.details{
+  margin-top: 10px;
+  background:#190061;
+  margin-left: 130px;
+  width: 1000px;
+  height: 350px;
+}
+.Register{
+  width: 124px;
+  height:35px;
+  margin-top: 100px;
+  margin-left: 450px;
+  background: white;
+  display: block;
+  border-radius: 10px;
+
+}
+a{
+  margin-left: 2px;
+  font-family: 'Shojumaru', cursive;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+
+}
+
+body{
+  background: #0c0032;
+}
